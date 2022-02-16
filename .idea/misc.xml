@@ -5,8 +5,12 @@
       <map>
         <entry key="..\:/Users/User/AndroidStudioProjects/Amazon/app/src/main/res/drawable-v24/button_border_rounded.xml" value="0.1" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Amazon/app/src/main/res/drawable-v24/editext_border_rounded.xml" value="0.1" />
-        <entry key="..\:/Users/User/AndroidStudioProjects/Amazon/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Amazon/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Amazon/app/src/main/res/layout/item_department.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Amazon/app/src/main/res/layout/item_feed_essentials.xml" value="0.2" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Amazon/app/src/main/res/layout/item_seller_book.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Amazon/app/src/main/res/layout/item_tablet.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Amazon/app/src/main/res/layout/item_tablet_two_square_ll.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>
